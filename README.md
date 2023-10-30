@@ -3,6 +3,8 @@
 
 A starter project with Nuxt 3, Tailwindcss, Firebase with Auth Google and email/password.
 
+<a href="https://www.buymeacoffee.com/skribascode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## Tech Stack
 
 **Client:** Nuxt 3, Pinia, TailwindCSS, Sass, Nuxt Icon
